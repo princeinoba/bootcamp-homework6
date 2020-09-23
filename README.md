@@ -7,7 +7,7 @@ Use the [OpenWeather API](https://openweathermap.org/api) to retrieve weather da
 ## Description
 
 When a valid city name is entered, the name is saved as part of a search history list and can be clicked on again to access the same data. The last search is saved to local storage so that it can be displayed when the page is reloaded. This dashboard is meant for travelers who want to plan ahead for the upcoming weather in different cities.
-
+https://princeinoba.github.io/bootcamp-homework6/
 
 ## User Story
 
